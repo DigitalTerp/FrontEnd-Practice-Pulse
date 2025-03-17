@@ -7,7 +7,7 @@ The **Pulse Project** is a frontend practice project aimed at recreating the **P
 ## 🎯 Objectives
 
 - Recreated the **Pulse.app Pricing Page** layout as accurately as possible.
-- Emphasize **CSS styling**, including flexbox, grid, typography, and color schemes.
+- Emphasize **CSS styling**, including flexbox, typography, and color schemes.
 - Ensure a **responsive design** that adapts across various screen sizes.
 - Improve frontend development skills by working on a real-world UI example.
 
@@ -15,7 +15,7 @@ The **Pulse Project** is a frontend practice project aimed at recreating the **P
 
 - **HTML** – Structuring the page content.
 - **CSS** – Custom styles for layout, typography, colors, and responsiveness.
-- **Flexbox & CSS Grid** – For a modern, flexible layout.
+- **Flexbox** – For a modern, flexible layout.
 
 ## 📱 Responsiveness
 
@@ -31,6 +31,4 @@ The page is designed to be **fully responsive**, ensuring it looks great on:
 - A well-organized **HTML structure**.
 - Modern, mobile-friendly layout using **flexbox and grid**.
 - Smooth animations and transitions (if applicable).
-
-## 📂 Project Structure
 
