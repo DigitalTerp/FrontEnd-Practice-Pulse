@@ -29,6 +29,5 @@ The page is designed to be **fully responsive**, ensuring it looks great on:
 - Accurate recreation of the **Pulse.app Pricing Page**.
 - Clean, structured **CSS for easy readability and maintenance**.
 - A well-organized **HTML structure**.
-- Modern, mobile-friendly layout using **flexbox and grid**.
-- Smooth animations and transitions (if applicable).
+- Modern, mobile-friendly layout using **flexbox**.
 
